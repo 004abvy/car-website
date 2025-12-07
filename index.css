@@ -1,19 +1,19 @@
 /* ---------- FONTS ---------- */
 @font-face {
   font-family: 'ChavieraPro';
-  src: url('../fonts/chaviera-pro/ChavieraproRegular-rg9jB.otf') format('opentype');
+  src: url('./chaviera-pro/ChavieraproRegular-rg9jB.otf') format('opentype');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'ChavieraPro';
-  src: url('../fonts/chaviera-pro/ChavieraproBold-RpMYE.otf') format('opentype');
+  src: url('./chaviera-pro/ChavieraproBold-RpMYE.otf') format('opentype');
   font-weight: 700;
 }
 
 @font-face {
   font-family: 'ChavieraPro';
-  src: url('../fonts/chaviera-pro/ChavieraproLight-8MKon.otf') format('opentype');
+  src: url('./chaviera-pro/ChavieraproLight-8MKon.otf') format('opentype');
   font-weight: 300;
 }
 
@@ -24,7 +24,7 @@
 /* Regular */
 @font-face {
   font-family: 'Porcha112';
-  src: url('../fonts/911porscha/911porschav3.ttf') format('truetype');
+  src: url('./911porscha/911porschav3.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
@@ -32,7 +32,7 @@
 /* Bold */
 @font-face {
   font-family: 'Porcha112';
-  src: url('../fonts/911porscha/911porschav3bold.ttf') format('truetype');
+  src: url('./911porscha/911porschav3bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
@@ -40,7 +40,7 @@
 /* Italic */
 @font-face {
   font-family: 'Porcha112';
-  src: url('../fonts/911porscha/911porschav3italic.ttf') format('truetype');
+  src: url('./911porscha/911porschav3italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
 }
@@ -48,7 +48,7 @@
 /* Bold Italic */
 @font-face {
   font-family: 'Porcha112';
-  src: url('../fonts/911porscha/911porschav3boldital.ttf') format('truetype');
+  src: url('./911porscha/911porschav3boldital.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
 }
